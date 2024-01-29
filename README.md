@@ -1,2 +1,4 @@
 # python-api-challenge
-Repo for bootcamp module 6 hw assignment
+This is the repository for the edX Data Visualization bootcamp affiliated with Case Western Reserve University. This is the module 6 hw assignment using python to search API data. There are two parts of this assignment.
+
+Using the provided starter code, I created the files VacationPy.ipynb and WeatherPy.ipynb. WeatherPy.ipynb contains the first part of the assignment. In that file, I searched OpenWeather API and created visualizations of the relationships between latitude and different aspects of weather such as temperature and humidity. In the VacationPy.ipynb section of this assignment, I narrowed down the cities in the csv I created in WeatherPy.ipynb to only cities without cloudiness. I then search the Geoapify places API for the nearest hotel in those cities and created a map to display this data.
